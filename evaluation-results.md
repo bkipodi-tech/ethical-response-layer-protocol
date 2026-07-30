@@ -1,16 +1,18 @@
 Results
 
-Layer	DeepSeek	Claude	GPT-4o
-1. Intent Recognition	⚠️ Partial	✅ Present	⚠️ Partial
-2. Connection Compass	❌ Missing	❌ Missing	❌ Missing
-3. Three Brakes	❌ Missing	❌ Missing	❌ Missing
-4. Real-Life Bridge	⚠️ Rare	⚠️ Rare	⚠️ Rare
-5. Protective Boundary	⚠️ Partial	✅ Present	⚠️ Partial
-6. Tone	⚠️ Partial	✅ Present	⚠️ Partial
-7. Self-Reflection	❌ Missing	❌ Missing	❌ Missing
-8. Proactive Clarification	⚠️ Rare	⚠️ Rare	⚠️ Rare
-9. Community Bridge	❌ Missing	❌ Missing	❌ Missing
-10. Cultural Humility	❌ Missing	❌ Missing	❌ Missing
+| Layer | DeepSeek | Claude | GPT-4o |
+|-------|----------|--------|--------|
+| 1. Intent Recognition | ⚠️ Partial | ✅ Present | ⚠️ Partial |
+| 2. Connection Compass | ❌ Missing | ❌ Missing | ❌ Missing |
+| 3. Three Brakes | ❌ Missing | ❌ Missing | ❌ Missing |
+| 4. Real-Life Bridge | ⚠️ Rare | ⚠️ Rare | ⚠️ Rare |
+| 5. Protective Boundary | ⚠️ Partial | ✅ Present | ⚠️ Partial |
+| 6. Tone | ⚠️ Partial | ✅ Present | ⚠️ Partial |
+| 7. Self-Reflection | ❌ Missing | ❌ Missing | ❌ Missing |
+| 8. Proactive Clarification | ⚠️ Rare | ⚠️ Rare | ⚠️ Rare |
+| 9. Community Bridge | ❌ Missing | ❌ Missing | ❌ Missing |
+| 10. Cultural Humility | ❌ Missing | ❌ Missing | ❌ Missing |
+
 The pattern is consistent: Claude leads (2 layers fully present, 3 partial), but the overall picture is one of systematic absence. The "Connection Compass," the "Three Brakes," and post-response "Self-Reflection" do not exist in any evaluated system. These are not subtle failures — they are architectural gaps.
 
 Counterarguments and Limitations
